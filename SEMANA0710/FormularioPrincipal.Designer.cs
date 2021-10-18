@@ -38,6 +38,7 @@ namespace SEMANA0710
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "FormularioPrincipal";
             this.Text = "FormularioPrincipal";
+            this.Load += new System.EventHandler(this.FormularioPrincipal_Load);
             this.ResumeLayout(false);
 
         }

@@ -19,8 +19,8 @@ namespace SEMANA0710
 
         private void textoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ftmTest ftm = new ftmTest();
-            ftm.MdiParent = this; // diniendo el formulario padre
+           ftmTest ftm = new ftmTest();
+          ftm.MdiParent = this; // diniendo el formulario padre
             ftm.Show(); //mostrando formulario
         }
 

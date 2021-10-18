@@ -16,5 +16,10 @@ namespace SEMANA0710
         {
             InitializeComponent();
         }
+
+        private void FormularioPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
